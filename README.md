@@ -2,6 +2,10 @@
 
 This project demonstrates a smart home system that can control a light (LED), fan (motor), and buzzer (sound) using hand gestures. It uses OpenCV and MediaPipe for real-time hand gesture recognition and communicates with an Arduino Uno to control the devices.
 
+![WhatsApp Image 2025-03-21 at 17 26 30(1)](https://github.com/user-attachments/assets/f7f516ed-e2d9-44eb-a41a-f7c84aa1202c)
+![WhatsApp Image 2025-03-21 at 17 28 00(1)](https://github.com/user-attachments/assets/0c8d77ce-3f06-410b-bf10-1c355788af6a)
+
+
 ## Features
 
 - **Open/Closed Palm** for controlling the LED (light)
